@@ -1,6 +1,6 @@
-# ytdl-core-wrapper-nadesiko3
+# node-ytdl-core-wrapper-nadesiko3
 
-ytdl-coreをなでしこコンソール版から呼び出せるようにプラグイン化したもの
+[node-ytdl-core](https://github.com/fent/node-ytdl-core)をなでしこコンソール版から呼び出せるようにプラグイン化したもの
 
 # 使い方
 
